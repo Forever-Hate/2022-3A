@@ -43,7 +43,7 @@ Strikethrough uses two tildes, ~~Scratch this.~~
 # 實作題2
 
 - [ ] todo list
-- [X] 2nd things
+- [ ] 2nd things
 
 -------
 python code

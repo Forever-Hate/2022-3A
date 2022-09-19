@@ -7,9 +7,14 @@
 
 :smile:
 
-github練習(課堂用)
-
 ![NKUST](nkust.png "nkust")
 
 - [ ] todo list
 - [X] done
+
+```python
+s = "Python syntax Highlighting"
+print(s)
+```
+
+github練習(2022系統分析與設計)
